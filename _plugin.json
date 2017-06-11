@@ -1,0 +1,7 @@
+{
+  "author": "natejms",
+  "repo": "https://github.com/natejms/amp-file-reader.git",
+  "version": "0.1",
+  "description": "An Ampersand plugin allowing you to read files as translations",
+  "init": "main"
+}
